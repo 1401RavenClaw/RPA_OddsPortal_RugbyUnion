@@ -1306,9 +1306,9 @@
     "restore": {
       "projectUniqueName": "RPA_OddsPortal_RugbyUnion",
       "projectName": "RPA_OddsPortal_RugbyUnion",
-      "projectPath": "C:\\Users\\maxargn\\Documents\\UiPathRobots\\Andrew\\RPA_OddsPortal_RugbyUnion\\.local",
+      "projectPath": "C:\\Users\\maxargn\\OneDrive\\Freelancing\\UiPathRobots\\Andrew\\RPA_OddsPortal_RugbyUnion\\.local",
       "packagesPath": "C:\\Users\\maxargn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\maxargn\\Documents\\UiPathRobots\\Andrew\\RPA_OddsPortal_RugbyUnion\\.local"
+      "outputPath": "C:\\Users\\maxargn\\OneDrive\\Freelancing\\UiPathRobots\\Andrew\\RPA_OddsPortal_RugbyUnion\\.local"
     },
     "frameworks": {
       "net461": {
